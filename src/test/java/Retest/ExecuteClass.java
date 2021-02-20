@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class ExecuteClass extends BaseClass{
 
 	public static void main(String[] args) throws InterruptedException {
-		
+		//test conflicts
 		WebDriver d= launchBrowser();
 		launchUrl("http://adactinhotelapp.com");
 		
