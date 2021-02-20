@@ -10,6 +10,7 @@ public class ExecuteClass extends BaseClass{
 
 	public static void main(String[] args) throws InterruptedException {
 		//execute main class
+//test conflicts
 		WebDriver d= launchBrowser();
 		launchUrl("http://adactinhotelapp.com");
 		
